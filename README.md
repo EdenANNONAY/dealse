@@ -27,3 +27,4 @@ Very simple, just open a terminal and navigate in the folder containing `main.py
 
 You now have a full list of the Amazon products that you want ordered by the cheapest possible.
 
+For more fun stuff or if you want to contact me you can do it [here]("https://edenannonay.com")
